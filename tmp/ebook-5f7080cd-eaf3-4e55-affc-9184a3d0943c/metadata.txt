@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=Unknown
+artist=Ardian Residi
+language=eng
+
+year=2025
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=472885
+title=Chapter 1

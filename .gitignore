@@ -1,0 +1,12 @@
+__pycache__/
+python_env/
+test_signature.png
+signature.png
+test_2.py
+test_2.txt
+test.m4b
+test.py
+bmp.jpeg
+models/__sessions/
+models/tts/
+testing-short.txt

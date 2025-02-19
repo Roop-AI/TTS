@@ -1,0 +1,11 @@
+;FFMETADATA1
+title=tmp_4d4088b33cc14c2b9bb3f3e6d8a1880f
+artist=Unknown
+language=eng
+
+year=2025
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=36789
+title=Chapter 1
